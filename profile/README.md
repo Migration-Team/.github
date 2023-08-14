@@ -1,4 +1,4 @@
 ## LOLOLOLOLOLOLOL
 # 6666
 
-![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=Migration-Team&show_icons=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migration-Team&repo=dud-android)](https://github.com/anuraghazra/github-readme-stats)
